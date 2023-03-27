@@ -1,4 +1,4 @@
-Preview of UGC1479 is shown below. The contours represent the 22 GHz 1" image. 
+Preview of 2E1739.1-1210 is shown below. The contours represent the 22 GHz 1" image. 
 
-![2MASXJ03305218+0538253.png](2MASXJ03305218+0538253.png "2MASXJ03305218+0538253")
+![2E1739.1-1210.png](2E1739.1-1210.png "2E1739.1-1210")
 
