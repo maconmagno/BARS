@@ -5,8 +5,7 @@ Radio data was acquired from the following surveys:
  3. The **887.5 MHz** data was obtained from the **Rapid ASKAP Continuum Survey** [RACS](https://research.csiro.au/racs/); [McConnell et al. 2020](https://arxiv.org/abs/2012.00747)
  4. The 144 MHz data was obtained from the **International Low-Frequency Array** [LOFAR](https://lofar-surveys.org/) using the LOFAR Two-metre Sky Survey [LoTSS](https://lofar-surveys.org/dr2_release.html); [Shimwell et al. 2016](https://www.aanda.org/articles/aa/full_html/2017/02/aa29313-16/aa29313-16.html)
  5. The **87.5, 118.5, 154.5, and 200.5 MHz** data was obtained from the **Galactic and Extra-Galactic All-Sky MWA Survey** [GLEAM](https://www.mwatelescope.org/science/galactic-science/gleam/). 
-
-Current BASS Radio Surveys through the Very Large Array (VLA) in the K-band ([VLA Configurations](https://science.nrao.edu/facilities/vla/docs/manuals/oss/performance/resolution)): 
+ 6. The **22 GHz** data comes from the current BASS Radio Surveys through the Very Large Array (VLA) in the K-band ([VLA Configurations](https://science.nrao.edu/facilities/vla/docs/manuals/oss/performance/resolution)): 
   1. **2013** - Original C-Array Survey @ 22 GHz with ~1" resolution - Program Name: *The Origin of Far-Infrared Radiation in AGN*,  
     Program Number: 13A-281, PI: Richard Mushotzky - Reference: [Smith et al. (2016)](https://doi.org/10.3847/0004-637X/832/2/163)
 
