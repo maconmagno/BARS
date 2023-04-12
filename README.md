@@ -7,7 +7,7 @@ Radio data was acquired from the following surveys:
  5. The **87.5, 118.5, 154.5, and 200.5 MHz** data was obtained from the **Galactic and Extra-Galactic All-Sky MWA Survey** [GLEAM](https://www.mwatelescope.org/science/galactic-science/gleam/); [Hurley-Walker et al. 2017](https://academic.oup.com/mnras/article/464/1/1146/2280761). 
  6. The **22 GHz** data comes from the current BASS Radio Surveys. More can be found here: [22GHz](https://github.com/maconmagno/22GHz/)
 
-Flux values were obtained by creating a region the size of the restoring beam and fitting it using Common Astronomy Software Applications ( [CASA](https://casaguides.nrao.edu/index.php?title=Main_Page) ). In the case of FIRST and NVSS, flux values and errors were obtained through their catalog search: [FIRST Catalog Search](http://sundog.stsci.edu/cgi-bin/searchfirst) and [NVSS Catalog Search](https://www.cv.nrao.edu/nvss/NVSSlist.shtml).
+Flux values were obtained by creating a region the size of the restoring beam and fitting it using Common Astronomy Software Applications ([CASA](https://casaguides.nrao.edu/index.php?title=Main_Page)). In the case of FIRST and NVSS, flux values and errors were obtained through their catalog search: [FIRST Catalog Search](http://sundog.stsci.edu/cgi-bin/searchfirst) and [NVSS Catalog Search](https://www.cv.nrao.edu/nvss/NVSSlist.shtml).
 
 Image cutouts are provided, but we did not generate the non-22 GHz images. All cutouts were made using CIRADA Image Cutout Web Service ([CIRADA](http://cutouts.cirada.ca/)). 
 
