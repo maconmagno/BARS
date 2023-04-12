@@ -1,6 +1,6 @@
 # BARS
  
-** Radio data collected from surveys over a vast frequency range. Our data comes from the BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)). The native resolution of our observations is 1" (unless we observed in B-array, then it would be 0.3"). We also produce UV-tapered images with 3" and 6" resolution.**
+**Radio data collected from surveys over a vast frequency range. Our data comes from the BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)). The native resolution of our observations is 1" (unless we observed in B-array, then it would be 0.3"). We also produce UV-tapered images with 3" and 6" resolution.**
 
 Current BASS Radio Surveys through the Very Large Array (VLA) in the K-band ([VLA Configurations](https://science.nrao.edu/facilities/vla/docs/manuals/oss/performance/resolution)): 
   1. **2013** - Original C-Array Survey @ 22 GHz with ~1" resolution - Program Name: *The Origin of Far-Infrared Radiation in AGN*,  
