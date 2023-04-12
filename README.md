@@ -3,7 +3,7 @@
 **Radio data collected from surveys over a vast frequency range. Our data comes from the BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)). The native resolution of our observations is 1" (unless we observed in B-array, then it would be 0.3"). We also produce UV-tapered images with 3" and 6" resolution.**
 
 Radio Surveys presented here:
- 1. The 1.4 GHz data was obtained through the Faint Images of the Radio Sky at Twenty-Centimeters ([FIRST](http://sundog.stsci.edu/index.html), [Becker et al. 1994] (https://adsabs.harvard.edu/full/1994ASPC...61..165B))).
+ 1. The 1.4 GHz data was obtained through the Faint Images of the Radio Sky at Twenty-Centimeters [FIRST](http://sundog.stsci.edu/index.html), [Becker et al. 1994] (https://adsabs.harvard.edu/full/1994ASPC...61..165B).
 
 
 Current BASS Radio Surveys through the Very Large Array (VLA) in the K-band ([VLA Configurations](https://science.nrao.edu/facilities/vla/docs/manuals/oss/performance/resolution)): 
