@@ -1,4 +1,4 @@
-Preview of 2MASX J03305218+0538253 is shown below. The contours represent the 22 GHz 1" image. 
+Preview of SBS 1301+540 is shown below. The contours represent the 22 GHz 1" image. 
 
-![2MASXJ03305218+0538253.png](2MASXJ03305218+0538253.png "2MASXJ03305218+0538253")
+![SBS1301+540.png](SBS1301+540.png "SBS1301+540")
 
