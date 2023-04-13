@@ -1,4 +1,4 @@
-Preview of 2MASX J03305218+0538253 is shown below. The contours represent the 22 GHz 1" image. 
+Preview of 2MASX J00253292+6821442 is shown below. The contours represent the 22 GHz 1" image. 
 
-![2MASXJ03305218+0538253.png](2MASXJ03305218+0538253.png "2MASXJ03305218+0538253")
+![2MASXJ00253292+6821442.png](2MASXJ00253292+6821442.png "2MASXJ00253292+6821442")
 
