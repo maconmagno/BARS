@@ -1,4 +1,4 @@
-Preview of 2MASX J20101740+4800214 is shown below. The contours represent the 22 GHz 1" image. 
+Preview of 2MASX J20101740+4800214 is shown below. The contours represent the 2013 - 22 GHz 1" image. 
 
 ![2MASXJ20101740+4800214.png](2MASXJ20101740+4800214.png "2MASXJ20101740+4800214")
 
