@@ -1,4 +1,4 @@
-Preview of 2MASX J03305218+0538253 is shown below. The contours represent the 22 GHz 1" image. 
+Preview of IRAS 05078+1626 is shown below. The contours represent the 22 GHz 1" image. 
 
-![2MASXJ03305218+0538253.png](2MASXJ03305218+0538253.png "2MASXJ03305218+0538253")
+![IRAS05078+1626.png](IRAS05078+1626.png "IRAS05078+1626")
 
