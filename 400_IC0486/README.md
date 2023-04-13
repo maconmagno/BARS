@@ -1,4 +1,4 @@
-Preview of 2MASX J03305218+0538253 is shown below. The contours represent the 22 GHz 1" image. 
+Preview of IC 0486 is shown below. The contours represent the 22 GHz 1" image. 
 
-![2MASXJ03305218+0538253.png](2MASXJ03305218+0538253.png "2MASXJ03305218+0538253")
+![IC0486.png](IC0486.png "IC0486")
 
