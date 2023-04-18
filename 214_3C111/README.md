@@ -1,4 +1,4 @@
-Preview of Mrk 885 is shown below. The contours represent the 22 GHz 1" image. 
+Preview of 3C 111 is shown below. The contours represent the PanSTARRS-1-g image. 
 
-![Mrk885.png](Mrk885.png "Mrk885")
+![3C111.png](3C111.png "3C111")
 
