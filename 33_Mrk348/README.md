@@ -9,4 +9,4 @@ Below is the full radio SED for Mrk 348.
 
 The corner plot for the derived SED is shown below.
 
-![Mrk_348_radio_SED_corner.png](Mrk_348_radio_SED_corner.png "Mrk 348 Corner")
+![Mrk_348_corner.png](Mrk_348_corner.png "Mrk 348 Corner")
